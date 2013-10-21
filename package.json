@@ -1,0 +1,22 @@
+{
+  "name": "pktime",
+  "version": "1.0.0",
+  "description": "Packed time utility",
+  "main": "lib/pktime.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HonzaL/pktime.git"
+  },
+  "keywords": [
+    "pktime",
+    "utility"
+  ],
+  "author": "Jan Lisal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HonzaL/pktime/issues"
+  }
+}
