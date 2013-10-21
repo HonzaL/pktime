@@ -2,7 +2,7 @@
     "name": "pktime",
     "version": "1.0.0",
     "description": "Packed time utility",
-    "main": "lib/pktime.js",
+    "main": "./lib/pktime",
     "scripts": {
 	"test": "mocha"
     },
