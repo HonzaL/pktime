@@ -1,22 +1,26 @@
 {
-  "name": "pktime",
-  "version": "1.0.0",
-  "description": "Packed time utility",
-  "main": "lib/pktime.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/HonzaL/pktime.git"
-  },
-  "keywords": [
-    "pktime",
-    "utility"
-  ],
-  "author": "Jan Lisal",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/HonzaL/pktime/issues"
-  }
+    "name": "pktime",
+    "version": "1.0.0",
+    "description": "Packed time utility",
+    "main": "lib/pktime.js",
+    "scripts": {
+	"test": "mocha"
+    },
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/HonzaL/pktime.git"
+    },
+    "keywords": [
+	"pktime",
+	"utility"
+    ],
+    "author": "Jan Lisal <lisal.honza@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+	"url": "https://github.com/HonzaL/pktime/issues"
+    },
+    "devDependencies": {
+	"mocha": "1.7.x",
+	"should": "1.2.x"
+    }
 }
